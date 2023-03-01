@@ -11,7 +11,7 @@ Eu sou Pedro realizando trabalhos como Front End, e apredendo e realizando proje
 <br>
 <b> Connect with me: </b>
 
-<a href=" https://www.instagram.com/pedroaugustogama/" target=" _blank" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta" /> </a>
+<a href="https://www.instagram.com/pedroaugustogama/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta"> </a>
 <br>
 <br>
 <br>
