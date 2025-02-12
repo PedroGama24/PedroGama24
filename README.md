@@ -1,26 +1,39 @@
-### Hi there :stuck_out_tongue_winking_eye:
+# 🌌 𝕃𝕌𝔸 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ | [PedroGama] 👨💻
 
-Eu sou Pedro realizando trabalhos como Front End, e apredendo e realizando projetos com:
-<br>
-<br>
-<br>
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
-- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java" />
-<br>
-<br>
-<b> Connect with me: </b>
+[![Lua](https://img.shields.io/badge/Made%20with-Lua-2C2D72?style=for-the-badge&logo=lua)](https://www.lua.org)
+[![GitHub Follow](https://img.shields.io/github/followers/SEUUSER?style=for-the-badge&color=important)](https://github.com/SEUUSER)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-<a href="https://www.instagram.com/pedroaugustogama/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta"> </a>
-<a href="https://www.linkedin.com/in/pedro-gama18/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"> </a>
-<br>
-<br>
-<br>
-<br>
+✨ **Bem-vindo ao meu universo de código!** ✨  
+Sou apaixonado por criar soluções mágicas com **Lua** 🧙♂️💫, transformando linhas de código em experiências incríveis!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGama24&show_icons=true&theme=gruvbox)
-<br>
-<br>
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGama24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 🚀 **Projetos Recentes em Lua**
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [🌕 Project Lunar](link) | Sistema de gerenciamento de missões espaciais | `Lua` `OpenResty` `Redis` |
+| [🎮 PixelQuest](link) | Jogo 2D de aventura retro | `LÖVE2D` `Lua` `Box2D` |
+| [🔐 CypherLua](link) | Framework de criptografia moderna | `Lua` `Libsodium` `OpenSSL` |
+
+---
+
+## 🛠️ **Tech Stack Lua**
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/>
+  <img src="https://love2d.org/style/logo.png" alt="love2d" width="40" height="40"/>
+  <img src="https://www.coronalabs.com/wp-content/uploads/2015/04/coronalabs-logo-300x114.png" alt="corona" height="30"/>
+  <img src="https://luarocks.org/logo.svg" alt="luarocks" width="40" height="40"/>
+</p>
+
+---
+
+## 📈 **GitHub Stats**
+
+![Seus Estatísticas](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=radical&hide=html,css,javascript)
+
+---
