@@ -15,6 +15,7 @@ I'm passionate about creating magical solutions with **Lua** 🧙💫, transform
 |---------|-----------|-------------|
 | [🎮 Simulador-De-Batalha](https://github.com/PedroGama24/Simulador-De-Batalha) | This is a game where you face a colossal monster and try to defeat it using your skills and strategies. | `Lua`|
 | [🔐PasswordGenerator](https://github.com/PedroGama24/PasswordGenerator) | An automatic password generator written in Lua. | `Lua` |
+| [🌆Major City](https://github.com/PedroGama24/Major) | A city in GTA V RP that was made with several new scripts. But not finished. | `Lua`, `JavaScript`, `CSS`, `HTML` |
 
 ---
 
