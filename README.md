@@ -32,8 +32,8 @@ Sou apaixonado por criar soluções mágicas com **Lua** 🧙♂️💫, transfo
 
 ## 📈 **GitHub Stats**
 
-![Seus Estatísticas](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=radical&count_private=true)
+![Seus Estatísticas](https://github-readme-stats.vercel.app/api?username=PedroGama24&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=radical&hide=html,css,javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGama24&layout=compact&theme=radical&hide=html,css,javascript)
 
 ---
