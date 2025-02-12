@@ -1,7 +1,7 @@
 # 🌌 𝕃𝕌𝔸 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ | [PedroGama] 👨💻
 
 [![Lua](https://img.shields.io/badge/Made%20with-Lua-2C2D72?style=for-the-badge&logo=lua)](https://www.lua.org)
-[![GitHub Follow](https://img.shields.io/github/followers/SEUUSER?style=for-the-badge&color=important)](https://github.com/SEUUSER)
+[![GitHub Follow](https://img.shields.io/github/followers/PedroGama24?style=for-the-badge&color=important)](https://github.com/PedroGama24)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ✨ **Welcome to my code universe!** ✨  
