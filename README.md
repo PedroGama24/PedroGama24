@@ -14,7 +14,7 @@ Sou apaixonado por criar soluções mágicas com **Lua** 🧙♂️💫, transfo
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [🎮 Simulador-De-Batalha](https://github.com/PedroGama24/Simulador-De-Batalha) | Este é um jogo onde você enfrenta um monstro colossal e tenta derrotá-lo usando suas habilidades e estratégias | `Lua`|
-| [🔐PasswordGenerator]([link](https://github.com/PedroGama24/PasswordGenerator)) | Um gerador de senhas automático escrito em Lua. | `Lua` |
+| [🔐PasswordGenerator](https://github.com/PedroGama24/PasswordGenerator) | Um gerador de senhas automático escrito em Lua. | `Lua` |
 
 ---
 
