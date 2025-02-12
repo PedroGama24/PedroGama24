@@ -23,9 +23,6 @@ Sou apaixonado por criar soluções mágicas com **Lua** 🧙♂️💫, transfo
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/>
-  <img src="https://love2d.org/style/logo.png" alt="love2d" width="40" height="40"/>
-  <img src="https://www.coronalabs.com/wp-content/uploads/2015/04/coronalabs-logo-300x114.png" alt="corona" height="30"/>
-  <img src="https://luarocks.org/logo.svg" alt="luarocks" width="40" height="40"/>
 </p>
 
 ---
