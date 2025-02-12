@@ -13,9 +13,8 @@ Sou apaixonado por criar soluções mágicas com **Lua** 🧙♂️💫, transfo
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [🌕 Project Lunar](link) | Sistema de gerenciamento de missões espaciais | `Lua` `OpenResty` `Redis` |
-| [🎮 PixelQuest](link) | Jogo 2D de aventura retro | `LÖVE2D` `Lua` `Box2D` |
-| [🔐 CypherLua](link) | Framework de criptografia moderna | `Lua` `Libsodium` `OpenSSL` |
+| [🎮 Simulador-De-Batalha]([link](https://github.com/PedroGama24/Simulador-De-Batalha)) | Este é um jogo onde você enfrenta um monstro colossal e tenta derrotá-lo usando suas habilidades e estratégias | `Lua`|
+| [🔐PasswordGenerator]([link](https://github.com/PedroGama24/PasswordGenerator)) | Um gerador de senhas automático escrito em Lua. | `Lua` |
 
 ---
 
