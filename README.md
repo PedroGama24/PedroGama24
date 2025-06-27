@@ -36,12 +36,13 @@ Minha curiosidade insaciável me leva a explorar novas tecnologias e metodologia
 
 ## 🚀 Projetos Recentes
 
-| Projeto               | Descrição                                                                 | Tecnologias                         | Status       |
-|-----------------------|---------------------------------------------------------------------------|-------------------------------------|--------------|
-| 🎮 **Simulador-De-Batalha** | Jogo onde o jogador enfrenta um monstro colossal usando estratégia.        | Lua                                 | ✅ Concluído  |
-| 🔐 **PasswordGenerator**    | Gerador automático de senhas seguras.                                  | Lua                                 | ✅ Concluído  |
-| 🌆 **Major City**           | Projeto de cidade para GTA V RP com scripts inovadores.                | Lua, JavaScript, CSS, HTML          | 🚧 Em Andamento |
-| 🧩 **Outros Projetos**      | Projetos Full Stack focados em soluções web completas.                | React, Vite, Node.js, Sequelize, MongoDB, PostgreSQL | 🚧 Em Andamento (repositórios privados) |
+| Projeto               | Descrição                                                                 | Tecnologias                                          | Status                                   |
+|-----------------------|---------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------|
+| 🎮 **Simulador-De-Batalha** | Jogo onde o jogador enfrenta um monstro colossal usando estratégia. | Lua                                                  | ✅ Concluído                            |
+| 🔐 **PasswordGenerator**    | Gerador automático de senhas seguras.                               | Lua                                                  | ✅ Concluído                            |
+| 🌆 **Major City**           | Projeto de cidade para GTA V RP com scripts inovadores.             | Lua, JavaScript, CSS, HTML                           | 🚧 Em Andamento                         |
+| 🚗 **Rifa Chevett**         | Projetos Full Stack focados em soluções web completas.              | React, Vite, Node.js, Sequelize, MongoDB, PostgreSQL | 🚧 Em Andamento (repositórios privados) |
+| 🧩 **Outros Projeto**       | Projetos Full Stack focados em soluções web completas.              | React, Vite, Node.js, Sequelize, MongoDB, PostgreSQL | 🚧 Em Andamento (repositórios privados) |
 
 ---
 
