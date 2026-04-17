@@ -1,48 +1,40 @@
-# 🚀 Pedro Gama | Desenvolvedor Full Stack & Analista de Dados | Lua Dev 👨‍💻
+# 🚀 Pedro Augusto Gama | Engenheiro de Software & Desenvolvedor de IA 👨‍💻
 
 ✨ **Bem-vindo ao meu universo de código!** ✨
 
-Sou **Pedro Gama**, um desenvolvedor Full Stack e analista de dados com 21 anos, apaixonado por transformar ideias em soluções funcionais e eficientes.
+Sou um estudante de **Engenharia de Software** (Uniasselvi) e profissional de TI com forte vivência na criação de sistemas ponta a ponta. Minha base em Mecatrônica me deu uma visão privilegiada sobre infraestrutura e hardware, mas foi no desenvolvimento de software e na **Inteligência Artificial** que encontrei minha verdadeira vocação.
 
-Minha jornada começou com uma base em Mecatrônica, que me deu uma perspectiva única sobre a integração de sistemas. Aprofundei-me em Programação Web no **DevClub**, consolidando minhas habilidades em desenvolvimento moderno.
-
-Minha curiosidade insaciável me leva a explorar novas tecnologias e metodologias, sempre buscando otimizar fluxos e gerar resultados de impacto. Acredito no poder da colaboração e tenho facilidade em trabalhar em equipe, crescendo em ambientes dinâmicos.
+Hoje, meu foco principal é resolver problemas complexos de negócios através de **Automação com Python**, **Engenharia de Prompts (LLMs)** e desenvolvimento **Full-Stack**. Gosto de construir ferramentas que otimizam o tempo das pessoas, desde sistemas de rastreabilidade logística até agentes autônomos de curadoria de conteúdo.
 
 ---
 
 ## 🛠️ Minhas Habilidades e Expertise
 
-### 💻 Desenvolvimento Full Stack
+### 🤖 Inteligência Artificial & Automação
+- **Ecossistema:** Python, Engenharia de Prompts (Claude API, OpenAI), LLMs.
+- **Aplicações:** Web Scraping estruturado, criação de agentes autônomos, automação de processos e fluxos de dados.
 
-**Experiência em aplicações web completas:**
+### 💻 Desenvolvimento Full Stack & Engenharia
+- **Front-End:** React e Vite — interfaces modernas, responsivas e voltadas para SaaS.
+- **Back-End:** Python, Node.js — APIs robustas e lógicas complexas de servidor.
+- **Game Dev:** Godot Engine e GDScript — foco em mecânicas físicas e design de níveis.
+- **Ferramentas:** Git, GitHub Copilot, Cursor, Make.com.
 
-- **Front-End:** React e Vite — interfaces modernas, responsivas e intuitivas.  
-- **Back-End:** Node.js e Sequelize — APIs robustas e lógicas complexas de servidor.  
-- **Lua:** Aplicações voltadas para games e sistemas customizados.  
-- **Versionamento:** Git & GitHub — controle eficiente de versões.  
-- **Containerização:** Docker — ambientes de desenvolvimento e produção consistentes.
-
-### 📊 Análise de Dados & Automação
-
-- **Controle de Estoque:** Atuação como freelancer na **Virtus Telecom**, revertendo déficits na gestão de materiais.  
-- **Automação:** Scripts em **JavaScript** e **Python**, com foco em extensões web e eficiência de processos.  
-- **Ferramentas:** SQL, NoSQL, MongoDB, PostgreSQL, Excel, Power BI.
-
-### 🤖 Inteligência Artificial & Otimização
-
-- Usuário ativo do **GitHub Copilot**, acelerando o desenvolvimento e aprimorando a qualidade do código.
+### 📊 Infraestrutura & Dados
+- **Bancos de Dados:** PostgreSQL, SQL, Integração com Google Sheets API.
+- **Infra:** Docker, Linux (Server), manutenção de hardware de alta performance.
 
 ---
 
-## 🚀 Projetos Recentes
+## 🚀 Projetos em Destaque
 
-| Projeto               | Descrição                                                                 | Tecnologias                                          | Status                                   |
-|-----------------------|---------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------|
-| 🎮 **Simulador-De-Batalha** | Jogo onde o jogador enfrenta um monstro colossal usando estratégia. | Lua                                                  | ✅ Concluído                            |
-| 🔐 **PasswordGenerator**    | Gerador automático de senhas seguras.                               | Lua                                                  | ✅ Concluído                            |
-| 🌆 **Major City**           | Projeto de cidade para GTA V RP com scripts inovadores.             | Lua, JavaScript, CSS, HTML                           | 🚧 Em Andamento                         |
-| 🚗 **Rifa Chevett**         | Projetos Full Stack focados em soluções web completas.              | React, Vite, Node.js, Sequelize, MongoDB, PostgreSQL | 🚧 Em Andamento (repositórios privados) |
-| 🧩 **Outros Projeto**       | Projetos Full Stack focados em soluções web completas.              | React, Vite, Node.js, Sequelize, MongoDB, PostgreSQL | 🚧 Em Andamento (repositórios privados) |
+| Projeto | Descrição | Tecnologias | Status |
+|---|---|---|---|
+| 📦 **Controle D0** | Sistema de rastreabilidade para gestão de inventário e produtividade técnica. | Python, Google APIs | 🚀 Em Produção |
+| 🎬 **Ecossistema de Cortes IA** | Automação de canais (Cortex Hub, Cortes Papo Torto). Scraping e edição via IA. | Python, Claude API | 🚀 Em Produção |
+| 🏎️ **Shift Gear Biomes** | Jogo de corrida estilo arcade focado em mecânicas de física e UI/UX. | Godot, GDScript | 🚧 Em Desenvolvimento |
+| 🌐 **Major Tech (SaaS)** | Desenvolvimento Full Stack de soluções web sob medida para negócios. | React, Node.js | 🚀 Em Produção |
+| 🔐 **PasswordGenerator** | Gerador automático de senhas seguras. | Lua | ✅ Concluído |
 
 ---
 
@@ -54,6 +46,6 @@ Minha curiosidade insaciável me leva a explorar novas tecnologias e metodologia
 
 ## ✉️ Contato
 
-- **Email:** pedroaugustogama19@gmail.com  
-- **LinkedIn:** [pedro-gama18](https://www.linkedin.com/in/pedro-gama18)  
+- **Email:** pedroaugustogama19@gmail.com
+- **LinkedIn:** [pedro-gama18](https://www.linkedin.com/in/pedro-gama18)
 - **GitHub:** [PedroGama24](https://github.com/PedroGama24)
