@@ -30,10 +30,10 @@ Hoje, meu foco principal é resolver problemas complexos de negócios através d
 
 | Projeto | Descrição | Tecnologias | Status |
 |---|---|---|---|
-| 📦 **Controle D0** | Sistema de rastreabilidade para gestão de inventário e produtividade técnica. | Python, Google APIs | 🚀 Em Produção |
-| 🎬 **Ecossistema de Cortes IA** | Automação de canais (Cortex Hub, Cortes Papo Torto). Scraping e edição via IA. | Python, Claude API | 🚀 Em Produção |
+| 📦 **Controle D0** | Sistema de rastreabilidade para gestão de inventário e produtividade técnica. | Python, Google APIs | ✅ Concluído |
+| 🎬 **Ecossistema de Cortes IA** | Automação de canais (Cortex Hub, Cortes Papo Torto). Scraping e edição via IA. | Python, Claude API | ✅ Concluído |
 | 🏎️ **Shift Gear Biomes** | Jogo de corrida estilo arcade focado em mecânicas de física e UI/UX. | Godot, GDScript | 🚧 Em Desenvolvimento |
-| 🌐 **Major Tech (SaaS)** | Desenvolvimento Full Stack de soluções web sob medida para negócios. | React, Node.js | 🚀 Em Produção |
+| 🌐 **Major Tech (SaaS)** | Desenvolvimento Full Stack de soluções web sob medida para negócios. | React, Node.js | ✅ Concluído |
 | 🔐 **PasswordGenerator** | Gerador automático de senhas seguras. | Lua | ✅ Concluído |
 
 ---
